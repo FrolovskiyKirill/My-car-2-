@@ -35,6 +35,7 @@ class TaskListViewController: UITableViewController {
 
     navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .add, target: self, action: #selector(addNewTask))
 
+    //цвет всех элемнтов в navigation bar
     navigationController?.navigationBar.tintColor = .white
   }
 

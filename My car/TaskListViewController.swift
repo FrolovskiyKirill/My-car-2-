@@ -38,7 +38,7 @@ class TaskListViewController: UITableViewController {
     //цвет всех элемнтов в navigation bar
     navigationController?.navigationBar.tintColor = .white
   }
-
+//132
   @objc private func addNewTask() {
 
   }
